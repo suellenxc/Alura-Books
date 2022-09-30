@@ -1,8 +1,6 @@
 <h1 align="center">AluraBooks</h1>
 <p align="center"> site responsivo - mobile-first</p
 <br>
-![logo da alura books](https://user-images.githubusercontent.com/105376835/193365376-76bdcae2-7af6-43fa-ae72-8e4fbd5b01b3.png)
-<br>
 <p> Site responsivo criado à partir do modelo mobile-first, condicionado também para outras medias queries, tablet e desktop.
 Utilizando propriedades funcionais do css, como flexbox e algumas pseudo-classes.</p>
 <h4 align="center"> 
