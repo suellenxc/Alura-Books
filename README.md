@@ -11,6 +11,8 @@ Utilizando propriedades funcionais do css, como flexbox e algumas pseudo-classes
 <br>
 :hammer: CSS3
 <br>
+:hammer: Importei Swiper do Javascript
+<br>
 :hammer: Mobile-first
 <br>
 :hammer: Flexbox
