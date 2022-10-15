@@ -103,13 +103,23 @@
 @media screen and (min-width: 1728px){
     .carrossel-container{
         display: flex;
+        margin: 0 20vw 3em 20vw;
     }
     .swiper{
         height: 50%;
         width: 50%;
     }
+     .swiper-pagination{
+        margin: 2em 0;
+    }
+    .swiper-button-prev,
+    .swiper-button-next{
+        display: block;
+        top: 50%;
+    }
     .card{
-        width: 60%;
+        width: 40%;
+        MARGIN: 4em 0 0 0;
     }
     .descricao__titulo{
         font-size: 32px;
