@@ -6,7 +6,7 @@ Utilizando propriedades funcionais do css, como flexbox e algumas pseudo-classes
 <h4 align="center"> 
     :construction:  Projeto em finalização  :construction:
 </h4><div display:"flex">
-<p>Técninas e tecnologias aplicadas</p>
+<p>Técnicas e tecnologias aplicadas</p>
 :hammer: HTML5
 <br>
 :hammer: CSS3
