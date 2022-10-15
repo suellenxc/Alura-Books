@@ -4,7 +4,7 @@
 <p> Site responsivo criado à partir do modelo mobile-first, condicionado também para outras medias queries, tablet e desktop.
 Utilizando propriedades funcionais do css, como flexbox e algumas pseudo-classes.</p>
 <h4 align="center"> 
-    :construction:  Projeto em finalização  :construction:
+    :construction:  Projeto finalizado  :construction:
 </h4><div display:"flex">
 <p>Técnicas e tecnologias aplicadas</p>
 :hammer: HTML5
