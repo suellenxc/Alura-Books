@@ -20,3 +20,5 @@ Utilizando propriedades funcionais do css, como flexbox e algumas pseudo-classes
 :hammer: Pseudo-classes
 <br>
 :hammer: Media queries
+<br>
+:hammer: Variáveis do CSS
